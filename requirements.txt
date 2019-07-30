@@ -1,0 +1,4 @@
+discord
+DiscordHooks
+sqlalchemy
+aiohttp
