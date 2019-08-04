@@ -9,7 +9,7 @@ with open('README.md', encoding='utf-8') as f:
 setup(
     name='AmazonAlerts',
     version='1.0.0',
-    packages=['amazonalerts'],
+    packages=['AmazonAlerts'],
     install_requires=required,
     url='https://github.com/MissLummie/amazon-alerts',
     license='',
